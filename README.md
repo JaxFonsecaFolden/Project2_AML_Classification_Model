@@ -1,1 +1,3 @@
-# Project2_AML_Classification_Model
+# Project2: AML Classification Model
+
+This project focuses on fine tuning a classification machine learning model, with the intentions of categorizing money laundering transactions. The model utilized is *Random Forest* modeling, which is researched to be the best fit for such a complex issue. In terms of the organizational structure, the finalized model will be displayed in *AML Predictive Modeling.ipynb*. In terms of the appended files in this repository, the *First Attempt.ipynb* is a control model showcasing the current abilities of the model with raw data. This is also the comparison data to see if performance increases after feature engineering, which is further explored in the *Dataset Exploration.ipynb*. In this file, there is an in-depth analysis of columns and their predictive power, justifying the final model's dataset. 
